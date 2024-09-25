@@ -141,10 +141,6 @@ python BisCNV.py --SIMU_WGBS_FASTQ --reference reference.fa --seq_length 150 --c
 
 
 
-## License
-
-[Add license information]
-
 ## Contact
 
-[Add contact information]
+xdt2020@163.com
