@@ -160,7 +160,6 @@ def read_genome(fa_name):
         chromosomes[id] = seq   
     return chromosomes
 
-#23:19 12/7/2021 i have too low power to die now
 def generate_the_simulated_fasta(input_fa, input_bed):
     """
     function: generate the simulated fasta using the input reference fasta and vcf, containing the INSERSION, DUPLICATION and DELETION
